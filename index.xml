@@ -1,0 +1,21 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>yylt`s blog on yylt`s blog</title>
+    <link>https://yylt.github.io/</link>
+    <description>Recent content in yylt`s blog on yylt`s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 09 Oct 2020 15:36:23 +0800</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Posts</title>
+      <link>https://yylt.github.io/posts/</link>
+      <pubDate>Fri, 09 Oct 2020 15:36:23 +0800</pubDate>
+      
+      <guid>https://yylt.github.io/posts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
