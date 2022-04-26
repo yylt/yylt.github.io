@@ -5,7 +5,7 @@ draft: false
 description: "kubelet memroy leak"
 author: "yylt"
 categories: ["container","problem"]
-tags: ["containerd","kubelete"]
+tags: ["containerd","kubelet"]
 ---
 
 

@@ -1,8 +1,8 @@
 ---
-title: "Containerd系列-简介"
+title: "Containerd 简介1"
 date: 2020-12-09T15:50:43+08:00
 draft: false
-description: "containerd 入门篇"
+description: ""
 author: "yylt"
 categories: ["container"]
 tags: ["containerd","go"]
